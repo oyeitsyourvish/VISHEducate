@@ -27,6 +27,7 @@ html{
     position: sticky;
     top:0;
     background-color: none;
+    
 }
 
 .nav-list{
@@ -191,7 +192,7 @@ html{
  /* STARTED CONTACT US  PAGE FROM HERE  */
 .contact{
     background-color: #f6f5f4;
-    height: 833px;
+    height: 783px;
 }
 .text-center{
 
